@@ -1,0 +1,8 @@
+name: HaoyiGuardPro
+version: '1.0-SNAPSHOT'
+main: org.haoyi.haoyiGuardPro.HaoyiGuardPro
+api-version: '1.20'
+load: STARTUP
+authors: [ Ng Haoyi ]
+description: Plugin nay se giup ban AntiMalware, AntiBypass
+website: atdh.cloud
