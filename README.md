@@ -8,7 +8,7 @@
 <br><br>
 
 <h1>🛡️ HaoyiProGuard</h1>
-<p><strong>Malware Scanner & Backdoor Remediator for Minecraft Paper Servers</strong></p>
+<p><strong>Malware Scanner & Backdoor Remediator for Bú Cu Giảng Hòa =))</strong></p>
 
 </div>
 
